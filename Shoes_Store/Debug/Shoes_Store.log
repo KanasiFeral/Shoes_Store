@@ -1,0 +1,16 @@
+﻿Build started 14.01.2016 22:29:11.
+     1>Project "E:\Работы на заказ(Заочники БГУиР)\Дмитрий Белко\Shoes_Store\Shoes_Store\Shoes_Store.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\работы на заказ(заочники бгуир)\дмитрий белко\shoes_store\shoes_store\main.cpp(1050): warning C4101: UserChoose: неиспользованная локальная переменная
+     1>e:\работы на заказ(заочники бгуир)\дмитрий белко\shoes_store\shoes_store\main.cpp(1077): warning C4715: myMenuI: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Работы на заказ(Заочники БГУиР)\Дмитрий Белко\Shoes_Store\Debug\Shoes_Store.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Работы на заказ(Заочники БГУиР)\Дмитрий Белко\Shoes_Store\Debug\Shoes_Store.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Работы на заказ(Заочники БГУиР)\Дмитрий Белко\Shoes_Store\Debug\Shoes_Store.lib" /MACHINE:X86 Debug\main.obj
+         Debug\stdafx.obj
+         Shoes_Store.vcxproj -> E:\Работы на заказ(Заочники БГУиР)\Дмитрий Белко\Shoes_Store\Debug\Shoes_Store.exe
+     1>Done Building Project "E:\Работы на заказ(Заочники БГУиР)\Дмитрий Белко\Shoes_Store\Shoes_Store\Shoes_Store.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.09

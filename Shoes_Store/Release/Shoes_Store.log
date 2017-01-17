@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  main.cpp
+main.cpp(4): warning C4603: NOMINMAX: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  main.cpp(4): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  main.cpp(6): note: использование предварительно скомпилированного заголовка
+main.cpp(1050): warning C4101: UserChoose: неиспользованная локальная переменная
+  Создание кода
+e:\работы на заказ по программированию\работы на заказ(бгуир)\с++\дмитрий белко\shoes_store\shoes_store\main.cpp(1077): warning C4715: myMenuI: значение возвращается не при всех путях выполнения
+  All 329 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Shoes_Store.vcxproj -> E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\С++\Дмитрий Белко\Shoes_Store\Release\Shoes_Store.exe
+  Shoes_Store.vcxproj -> E:\Работы на заказ по программированию\Работы на заказ(БГУиР)\С++\Дмитрий Белко\Shoes_Store\Release\Shoes_Store.pdb (Full PDB)
